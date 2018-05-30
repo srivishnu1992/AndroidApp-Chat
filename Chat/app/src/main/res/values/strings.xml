@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="strNull" />
+    <string name="strEmail">Email</string>
+    <string name="strPassword">Password</string>
+    <string name="strLogin">Login</string>
+    <string name="strSignUp">Sign Up</string>
+    <string name="strFirstName">First Name</string>
+    <string name="strLastName">Last Name</string>
+    <string name="strChoose">Choose Password</string>
+    <string name="strRepeat">Repeat Password</string>
+    <string name="strCancel">Cancel</string>
+    <string name="Referencekey">com.example.srivi.chat</string>
+    <string name="strCurrent">Current Threads</string>
+    <string name="strNewThread">Add New Thread</string>
+    <string name="message">Type message to send</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="chat" />
+    <string name="struser_id">userid</string>
+    <string name="fullname" />
+    <string name="currentthreads">Current threads</string>
+
+</resources>
